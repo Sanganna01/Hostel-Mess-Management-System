@@ -91,8 +91,12 @@ For any queries, feel free to contact us via [GitHub Issues](https://github.com/
 
 5. **Start Frontend**:
    - Once the server is running, navigate to the `frontend` folder, open `index.html`, and use the "Go Live" feature in your editor to view the frontend.
+
+ 
  Photos-
 ![WhatsApp Image 2025-01-17 at 02 36 17_a7376b4b](https://github.com/user-attachments/assets/f32603b3-a6a5-4b2d-835a-d6fa20dd5327)
+![WhatsApp Image 2025-01-17 at 02 34 52_23dd9946](https://github.com/user-attachments/assets/c00e36dc-4929-4587-aff6-491a41da2d35)
+
 
 
 For more details, visit the [GitHub repository](https://github.com/Sanganna01/Hostel-Mess-Management-System).
